@@ -1,2 +1,1 @@
-
 export default 'it works';
