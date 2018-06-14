@@ -15,7 +15,7 @@
     "build": "babel src -d lib",
     "preversion": "yarn test && yarn build"
   },
-  "author": "cap32",
+  "author": "Cap32",
   "repository": "cantonjs/node-lib-boilerplate",
   "engines": {
     "node": ">=4.2.1"
