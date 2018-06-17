@@ -18,7 +18,7 @@
   "author": "Cap32",
   "repository": "cantonjs/node-lib-boilerplate",
   "engines": {
-    "node": ">=4.2.1"
+    "node": ">=4"
   },
   "keywords": [],
   "license": "MIT",
